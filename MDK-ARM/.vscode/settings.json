@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ad9833.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "gpio.h": "c",
+        "ad9833_setup.h": "c"
+    }
+}
