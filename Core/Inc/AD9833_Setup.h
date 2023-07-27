@@ -4,6 +4,6 @@
 #include "AD9833.h"
 
 // Initialing AD9833
-void AD9833_Init();
+void AD9833_Init(AD9833_Typedef AD9833);
 
 #endif
